@@ -4,6 +4,7 @@ JQ-DS-Infinite-Ticker
 Jquery plugin to create an optionally page wide ticker with images.
 
 Usage:
+	
 	var images = [
 		[
 			'/images/some_image_122_81_bor13_f3f3f3.jpg',
